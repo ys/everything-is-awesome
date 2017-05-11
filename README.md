@@ -1,8 +1,7 @@
-# With great links, comes great reading moments
-
-## How to work?
-
-- [Adam Wiggins' Heroku's principles](https://gist.github.com/adamwiggins/5687294)
+- [Choose boring tech by McKinley](http://mcfunley.com/choose-boring-technology)
+- [Heroku values by Adam Wiggins](https://gist.github.com/adamwiggins/5687294)
+- [Minimalism by Brandur](https://brandur.org/minimalism)
+- [Ship small diffs by McKinley](https://blog.skyliner.io/ship-small-diffs-741308bec0d1)
 - [Working Remotely](https://github.com/lenazun/working-remotely/blob/master/ideas.md)
 
 ## Metrics and alerting
